@@ -1,0 +1,31 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+.title {
+    display: flex;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    justify-content: center;
+    align-content: center;
+}
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.item {
+    margin: 15px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.caption {
+    display: block;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
